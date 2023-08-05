@@ -25,3 +25,6 @@ In conclusion, Language Modeling and N-grams are core techniques in NLP. They en
 # Readings
 
 [Beyond n-grams: Can linguistic sophistication improve language modeling?](https://aclanthology.org/P98-1028.pdf)
+[Show some love to your n-grams: A bit of progress and stronger n-gram language modeling baselines](https://api.repository.cam.ac.uk/server/api/core/bitstreams/83d21f26-066b-4894-915b-63c7749b8a3f/content)
+[Building Wikipedia N-grams with Apache Spark
+](https://www.researchgate.net/profile/Jorge-Fonseca-10/publication/361805716_Building_Wikipedia_N-grams_with_Apache_Spark/links/63146b815eed5e4bd1468051/Building-Wikipedia-N-grams-with-Apache-Spark.pdf)
