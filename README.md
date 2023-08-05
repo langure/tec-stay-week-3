@@ -21,3 +21,7 @@ These N-grams can be used as features in many NLP tasks. For example, in sentime
 By analyzing N-grams, ML models can make more informed decisions about what word or phrase comes next. This enables them to perform tasks like text generation, text classification, and many others.
 
 In conclusion, Language Modeling and N-grams are core techniques in NLP. They enable machines to understand and generate human-like text, powering many applications we use daily, from web search to virtual assistants.
+
+# Readings
+
+[Beyond n-grams: Can linguistic sophistication improve language modeling?](https://aclanthology.org/P98-1028.pdf)
